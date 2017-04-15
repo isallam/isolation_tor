@@ -1,8 +1,7 @@
 
-# Game-playing Agent
+# Game-playing Agenta
 
-This project include the game_agent used for the tournament
-The code is modified to test the agent for consistency.
+This project include the game_agent used for the tournament.  The code is modified to test the agent for consistency and general performance.
 
 Ideas and concepts are based on the code in AIND-Isolation project.
 
